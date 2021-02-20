@@ -1,0 +1,17 @@
+h1{
+  color:white;
+  background:transparent;
+  text-shadow:0 2px 2px black;
+}
+input{
+  width:50%;
+  padding: 10px 20px;
+  border :none;
+  outline:none;
+  margin:20px 0;
+  text-align:center;
+}
+button{
+  line-height:20px;
+  padding:0 px
+}
